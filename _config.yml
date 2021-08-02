@@ -1,0 +1,67 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Chloe Kwon
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to Chloe's website.
+baseurl: "" # the subpath of the site
+url: "https://chloedkkwon.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/chloe.jpeg
+google_analytics: "UA-190457007-1"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: CV
+      slug: CV_CK2021.pdf
+    - name: Research
+    - name: Teaching
+#    - name: Blog
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: dk837@cornell.edu
+      link: mailto:dk837@cornell.edu
+#    - name: WeChat
+#      value: YourWeChatUsername
+#      link: "#"
+#  follow:
+#    - name: Twitter
+#      link: http://twitter.com/YourTwitterUsername
+#      username: "@YourTwitterUsername"
+#    - name: Facebook
+#      link: http://facebook.com/YourFacebookUsername
+#    - name: LinkedIn
+#      link: http://linkedin.com/in/YourLinkedInUsername
+#    - name: GitHub
+#      link: http://github.com/YourGitHubUsername
+#    - name: Dribbble
+#      link: https://dribbble.com/YourDribbbleUsername
+#    - name: RSS
+#      link: /feed.xml
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
