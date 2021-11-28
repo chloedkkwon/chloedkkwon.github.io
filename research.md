@@ -18,6 +18,6 @@ items:
 
 
 ---
-Here you can learn more about my current project. 
+Here you can learn more about my projects.
 <br />
 <br />
