@@ -9,10 +9,6 @@ items:
       alt: rfhall
     description: I helped students understand basic grammar and practice speaking in Korean in an undergraduate language course. 
 
-layout: work
-title: Teaching
-slug: /teaching
-items:
   - title: Fall 2021 TA for LING 2221 Language and Society
     image:
       src: /assets/img/work/meyerhoff.png
