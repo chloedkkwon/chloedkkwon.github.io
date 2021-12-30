@@ -9,7 +9,7 @@ items:
       alt: a_project
     description: Tensification refers to a phonological process in which a plain obstruent becomes tense. I'm investigating whether or not it is in the process of becoming a general marker of Korean compounds. Predicting the occurrence of compound tensification is difficult since there are multiple factors that contribute to it. What complicates the picture more is that speakers seem to show instances of a sound change where broader types of compounds occur with tensification. By delving in to this complex problem, I hope to provide a deeper understanding of what compound words are, how they are represented, and how their features surface.
 
-  - title: The prosodic patterns in English L2 production by Native speakers and Korean speakers of English
+  - title: The prosodic patterns in English production by Native speakers and Korean speakers of English
     image:
       src: /assets/img/work/q_project.png
       alt: q_project
