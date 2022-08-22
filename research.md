@@ -3,11 +3,11 @@ layout: work
 title: Research
 slug: /research
 items:
-  - title: Tensification as a general marker of Korean compounds
+  - title: Understanding tensification as a general marker of Korean compounds
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
-    description: Tensification refers to a phonological process in which a plain obstruent becomes tense. I'm investigating whether or not it is in the process of becoming a general marker of Korean compounds. Predicting the occurrence of compound tensification is difficult since there are multiple factors that contribute to it. What complicates the picture more is that speakers seem to show instances of a sound change where broader types of compounds occur with tensification. By delving in to this complex problem, I hope to provide a deeper understanding of what compound words are, how they are represented, and how their features surface.
+    description: Tensification refers to the phonological process of a plain obstruent becoming tense, which are two distinct consonants in Korean. I'm investigating whether this is deriving a general marker of Korean compounds. Predicting the occurrence of compound tensification is challenging since there are multiple factors contributing to it. What is more interesting is that the native speakers seem to show inconsistent perceptual judgement for distinguishing plain and tense consonants occurring in compounds despite the fact that these sounds are phonologically distinct. By questioning the fundamental characteristics of these consonants, I hope to shed a light on how they are represented in terms of production and perception and ultimately model it so that the computers can replicate a similar process. 
 
   - title: The prosodic patterns in English production by Native speakers and Korean speakers of English
     image:
