@@ -14,6 +14,10 @@ profile_picture:
 </p>
 
 <p>
-    Check out my <a href="CV_CK2022.pdf">CV</a> if you want to learn more about me. 
+  Outside of work, I love to explore nature and spend much time cuddling with my cat, Nuri.
+ </p>
+
+<p>
+    Check out my <a href="CV_CK2022.pdf">CV</a> if you want to learn more about me!
 </p>
 
