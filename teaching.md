@@ -9,7 +9,7 @@ items:
       alt: meyerhoff
     description: This is an introductory sociolinguistics course. I led two sections focusing on introducing theoretical and technical concepts to students who are new to linguistics, and led discussions on how social factors interact with linguistic phenomena. 
 
-  - title: Spring 2021 TA for KOREA 1102 Elementary Korean II
+  - title: Spring 2021, 2022 TA for KOREA 1102 Elementary Korean II
     image:
       src: /assets/img/work/rfhall.png
       alt: rfhall
