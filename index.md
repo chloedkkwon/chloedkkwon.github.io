@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-    My research interests lie in phonetics, phonology, and their interface with other subareas involved in understanding the production-perception interaction and prosody. I'm also very interested in exploring various research methodologies and computational modeling of linguistic data. 
+    My research interests lie in phonetics, phonology, and their interface with other subareas involved in understanding the production-perception interaction and prosody. I'm also  interested in exploring various research methodologies and computational modeling of linguistic data. 
 </p>
 
 <p>
