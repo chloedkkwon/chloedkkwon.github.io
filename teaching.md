@@ -3,6 +3,12 @@ layout: work
 title: Teaching
 slug: /teaching
 items:
+  - title: Spring 2023 TA for LING 3302 Introduction to Phonetics and Phonology
+    image:
+      src:
+      alt:
+     description: I led two discussion sections to guide students in understanding the fundamental concepts in phonetics and phonology. I reviewed class materials, prepared the students for labs, and held exam review sessions.
+
   - title: Fall 2021 TA for LING 2221 Language and Society
     image:
       src: /assets/img/work/meyerhoff.png
