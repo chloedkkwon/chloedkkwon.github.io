@@ -7,7 +7,7 @@ items:
     image:
       src:
       alt:
-    description: I led two discussion sections to guide students in understanding the fundamental concepts in phonetics and phonology. I reviewed class materials, prepared the students for labs, and held exam review sessions.
+    description: I led two discussion sections to help students understand the fundamental concepts in phonetics and phonology. I reviewed class materials, prepared them  for labs, and held exam review sessions.
 
   - title: Fall 2021 TA for LING 2221 Language and Society
     image:
