@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
-    description: Tensification in Korean refers to the phonological process of a plain obstruent becoming tense, which are two distinct consonants. This process takes place in several environments, but the one I'm interested in is when two nouns form a compound. This specific instance of tensification is also known as compound tensificaiton or sai-sios. I'm investigating the phonetic characteristics of tense consonants derived from sai-sios, performing in-depth analysis including individual speaker and word-by-word variations, in hopes of better understanding the representation of sound categories. 
+    description: Tensification in Korean refers to the phonological process of a plain obstruent becoming tense, which are two distinct consonants. This process takes place in several environments, but the one I'm interested in is when two nouns form a compound. This specific instance of tensification is known as compound tensificaiton or sai-sios. I'm investigating the phonetic characteristics of tense consonants derived from sai-sios, performing in-depth analysis including individual speaker and word-by-word variations, in hopes of better understanding the representation of sound categories. 
 
 
   - title: The prosodic patterns in English production by Native speakers and Korean speakers of English
