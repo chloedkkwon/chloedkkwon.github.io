@@ -5,8 +5,8 @@ slug: /teaching
 items:
   - title: Spring 2023 TA for LING 3302 Introduction to Phonetics and Phonology
     image:
-      src:
-      alt:
+      src: /assets/img/work/phon_phon.png
+      alt: phon_phon
     description: I led two discussion sections to help students understand the fundamental concepts in phonetics and phonology. I reviewed class materials, prepared them  for labs, and held exam review sessions.
 
   - title: Fall 2021 TA for LING 2221 Language and Society
