@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
-    description: This is my dissertation project studying a morpho-phonological process in Korean called 'sai-sios'.
+    description: This is my dissertation project studying a morpho-phonological process in Korean called 'sai-sios', or compound tensification. This process causes a plain obstruent in the initial position of the second noun in a noun + noun compound to become tense. Compound tensification is interesting since it's not fully predictable when it will occur and what happens to the pronunciations when it does. While previous studies have looked at possible contributing factors, like frequency and the word origins, using mainly dictionaries and survey responses, I look at actual pronunciations with data from a corpus and a production experiment. 
 
 
   - title: The prosodic patterns in English production by Native speakers and Korean speakers of English
