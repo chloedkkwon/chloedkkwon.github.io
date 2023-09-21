@@ -6,15 +6,15 @@ profile_picture:
 ---
 
 <p>
-    Welcome! My name is Chloe, and I'm a fourth year PhD student in linguistics at Cornell. 
+    Welcome! My name is Chloe, and I'm a 5th-year PhD student in linguistics at Cornell. 
 </p>
 
 <p>
-    My research interests lie in phonetics, phonology, and their interface with other subareas involved in understanding the production-perception interaction and prosody. I'm also  interested in exploring various research methodologies and computational modeling of linguistic data. 
+    My research interests lie in phonetics, phonology, and their interface. I'm also  interested in exploring diverse research methodologies and computational modeling of linguistic data. For my dissertation, I'm examining the phonetic patterns of Korean stops in compounds. This exploration aims to shed light on the nature of phonemic contrasts in less robust contexts and the underlying mechanisms involved in the production and perception. 
 </p>
 
 <p>
-  Outside of work, I love to explore nature and spend much time cuddling with my cat, Nuri.
+  Outside of work, I love to visit breweries and wineries, play golf, and spend time cuddling with my precious cat, Nuri.
  </p>
 
 <p>
