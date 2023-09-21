@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
-    description: This is my dissertation project studying a morpho-phonological process in Korean called 
+    description: This is my dissertation project studying a morpho-phonological process in Korean called 'sai-sios'.
 
 
   - title: The prosodic patterns in English production by Native speakers and Korean speakers of English
