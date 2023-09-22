@@ -7,19 +7,19 @@ items:
     image:
       src: /assets/img/work/phon_phon.png
       alt: phon_phon
-    description: I led two discussion sections to help students understand the fundamental concepts in phonetics and phonology. I reviewed class materials, prepared them  for labs, and held exam review sessions.
+    description: I led two discussion sections to guide students in grasping fundamental concepts in phonetics and phonology by reviewing course materials, teaching technical skills in phonetic analyses, and hosting review sessions. 
 
   - title: Fall 2021 TA for LING 2221 Language and Society
     image:
       src: /assets/img/work/meyerhoff.png
       alt: meyerhoff
-    description: This is an introductory sociolinguistics course. I led two sections focusing on introducing theoretical and technical concepts to students who are new to linguistics, and led discussions on how social factors interact with linguistic phenomena. 
+    description: As part of an introductory sociolinguistics course, I facilitated two sections dedicated to introducing theoretical and technical sociolinguistic concepts to students new to the field.
 
   - title: Spring 2021, 2022 TA for KOREA 1102 Elementary Korean II
     image:
       src: /assets/img/work/rfhall.png
       alt: rfhall
-    description: I helped students understand basic grammar and practice speaking in Korean in an undergraduate language course. 
+    description: I helped undergraduate students understand grammar and hone their conversational skills in Korean.
 
 
 ---
