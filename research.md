@@ -10,7 +10,7 @@ items:
     description: This is my dissertation project studying a morpho-phonological process in Korean called sai-sios, or compound tensification. It causes a plain obstruent in the initial position of the second noun in a noun + noun compound to become tense. Compound tensification is interesting since it's not fully predictable when it occurs and what happens to the pronunciations when it does. I look at speech data from a corpus and a production experiment to answer questions of how compound tensification is manifested in actual speech, and whether there is categorical distinction between tense stops derived from compound tensification and underlying plain and tense stops, as described in traditional literature. 
 
 
-  - title: The prosodic patterns in English production by L1 speakers and Korean L2 speakers of English [abstract] (https://drive.google.com/file/d/11omcu9aEJOyL-MwxhG5x6uwLZJ9wDYQO/view?usp=sharing)
+  - title: The prosodic patterns in English production by L1 speakers and Korean L2 speakers of English [abstract](https://drive.google.com/file/d/11omcu9aEJOyL-MwxhG5x6uwLZJ9wDYQO/view?usp=sharing)
     image:
       src: /assets/img/work/q_project.png
       alt: q_project
