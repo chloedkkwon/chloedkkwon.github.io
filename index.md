@@ -10,14 +10,14 @@ profile_picture:
 </p>
 
 <p>
-    My research interests lie in phonetics, phonology, and their interface. I'm also  interested in exploring diverse research methodologies and computational modeling of linguistic data. For my dissertation, I'm examining the phonetic patterns of Korean stops in compounds to shed light on the nature of phonemic contrasts in less robust contexts and the underlying mechanisms involved in the production and perception. 
+    My research interests lie in phonetics, phonology, and their interface. I'm also  interested in exploring research methodologies and computational modeling of linguistic data. For my dissertation, I'm examining the phonetic patterns of Korean stops in compounds to shed light on the nature of phonemic contrasts in less robust contexts and the underlying mechanisms involved in the link between speech production and perception. 
 </p>
 
 <p>
-  Outside of work, I love to visit breweries and wineries, play golf, and spend time cuddling with my precious cat, Nuri.
+  Outside of work, I love to watch horror movies, visit breweries and wineries, and spend time cuddling with my precious orange cat, Nuri.
  </p>
 
 <p>
-    Check out my <a href="CV_2024.pdf">CV</a> if you want to learn more about me!
+    Check out my <a href="CV_chloekwon_240711.pdf">CV</a> if you want to learn more about me!
 </p>
 
