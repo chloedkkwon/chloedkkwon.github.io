@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Last updated\: July 18, 2024
+title: "Last updated: July 18, 2024"
 slug: /cv
 ---
 
