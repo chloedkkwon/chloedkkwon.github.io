@@ -18,6 +18,6 @@ profile_picture:
  </p>
 
 <p>
-    Check out my <a href="CV_chloekwon_240711.pdf">CV</a> if you want to learn more about me!
+    Check out my <a href="20240718_CV_chloe.pdf">CV</a> if you want to learn more about me!
 </p>
 
