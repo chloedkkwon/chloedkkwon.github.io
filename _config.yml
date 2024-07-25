@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: CV
-      slug: 20240718_CV_chloe.pdf
+      #slug: 20240718_CV_chloe.pdf
     - name: Research
     - name: Teaching
 #    - name: Blog
