@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/brain.png
       alt: brain
-    description: I designed and taught a writing course titled "Biological Foundations of Language" for freshman students new to linguistics. The course aimed to provide foundational knowledge about the biological aspects influencing human language use. It covered topics such as animal communication, neurolinguistics, and the nature vs. nurture debate.
+    description: I designed and taught a writing course titled "Biological Foundations of Language" for freshman students new to linguistics. The course aimed to provide foundational knowledge about the biological aspects influencing human language. It covered topics such as animal communication, neurolinguistics, and the nature vs. nurture debate.
 
   - title: Spring 2023 TA for LING 3302 Introduction to Phonetics and Phonology
     image:
