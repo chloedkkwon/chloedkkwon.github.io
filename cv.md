@@ -6,6 +6,8 @@ slug: /cv
 
 # CV
 
-<iframe src="{{ site.baseurl }}/20240718_CV_chloe.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/20240718_CV_chloe.pdf">Download PDF</a>.
-</iframe>
+<object data="{{ site.baseurl }}/20240718_CV_chloe.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="{{ site.baseurl }}/20240718_CV_chloe.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/20240718_CV_chloe.pdff">Download PDF</a>.</p>
+    </embed>
+</object>
