@@ -21,6 +21,10 @@
             <span class="work-text">
               <b><strong>{{ item.title }}</strong></b>
               <br />
+              {% if item.link%}
+                <p><a href="{{ item.link }}">{{ item.link_text }}</a></p>
+              {% endif %}
+              <br />
               {{ item.description }}
             </span>
           </div>
