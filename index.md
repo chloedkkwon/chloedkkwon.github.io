@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  Outside of work, I love to watch horror movies, visit breweries and wineries, and spend time cuddling with my precious orange cat, Nuri.
+  Outside of work, I love to watch horror movies, visit breweries and wineries, and cuddle with my precious cat, Nuri.
  </p>
 
 <p>
