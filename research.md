@@ -5,7 +5,7 @@ slug: /research
 items:
   - title: Compound tensification in Korean - Bridging phonology, phonetics, and morphology
     link: https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link
-    link_text: \[paper(corpus study)\]
+    link_text: "[paper(corpus study)]"
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
@@ -14,7 +14,7 @@ items:
 
   - title: The prosodic patterns in English production by L1 speakers and Korean L2 speakers of English 
     link: https://drive.google.com/file/d/11omcu9aEJOyL-MwxhG5x6uwLZJ9wDYQO/view?usp=sharing
-    link_text: \[abstract\]
+    link_text: "[abstract]"
     image:
       src: /assets/img/work/q_project.png
       alt: q_project
