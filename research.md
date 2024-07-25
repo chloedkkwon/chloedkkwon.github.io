@@ -3,7 +3,8 @@ layout: work
 title: Research
 slug: /research
 items:
-  - title: Compound tensification in Korean - Bridging phonology, phonetics, and morphology [<a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link">proceeding (corpus study)</a>]
+  - title: Compound tensification in Korean - Bridging phonology, phonetics, and morphology
+    [<a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link">proceeding paper on the corpus study</a>]
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
