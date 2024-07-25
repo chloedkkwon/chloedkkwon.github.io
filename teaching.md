@@ -3,13 +3,19 @@ layout: work
 title: Teaching
 slug: /teaching
 items:
+  - title: Spring 2024 Instructor for LING 1100 First-Year Writing Seminar
+    image:
+      src:
+      alt:
+    Description: I designed and taught a writing course titled "Biological Foundations of Language" for freshman students new to linguistics. The course aimed to provide foundational knowledge about the biological aspects influencing human language use. It covered topics such as animal communication, neurolinguistics, and the nature vs. nurture debate.
+
   - title: Spring 2023 TA for LING 3302 Introduction to Phonetics and Phonology
     image:
       src: /assets/img/work/phon_phon.png
       alt: phon_phon
     description: I led two discussion sections to guide students in grasping fundamental concepts in phonetics and phonology by reviewing course materials, teaching technical skills in phonetic analyses, and hosting review sessions. 
 
-  - title: Fall 2021 TA for LING 2221 Language and Society
+  - title: Fall 2021, Fall 2024 TA for LING 2221 Language and Society
     image:
       src: /assets/img/work/meyerhoff.png
       alt: meyerhoff
