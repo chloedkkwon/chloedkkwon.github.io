@@ -3,18 +3,18 @@ layout: work
 title: Research
 slug: /research
 items:
-  - title: Compound tensification in Korean - Bridging phonology, phonetics, and morphology [<a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link">proceeding</a>]
+  - title: Compound tensification in Korean - Bridging phonology, phonetics, and morphology
     link: https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link
-    link_text: [paper(corpus study)]
+    link_text: \[paper(corpus study)\]
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
     description: This is part of my dissertation project studying the phonetic realization of a morpho-phonological process in Korean called sai-sios, or compound tensification. It causes a plain obstruent in the initial position of the second noun to become tense in a noun + noun compound. Compound tensification is interesting since it's not entirely predictable when it occurs and what happens to the pronunciations when it does. I examined corpus data to answer questions of how compound tensification is manifested in actual speech and whether there is a categorical distinction between tense stops derived from compound tensification and underlying plain and tense stops, as described in the traditional literature. Currently, I'm working on publishing results from a production experiment and running a perception experiment.
 
 
-  - title: The prosodic patterns in English production by L1 speakers and Korean L2 speakers of English [<a href="https://drive.google.com/file/d/11omcu9aEJOyL-MwxhG5x6uwLZJ9wDYQO/view?usp=sharing">abstract</a>]
+  - title: The prosodic patterns in English production by L1 speakers and Korean L2 speakers of English 
     link: https://drive.google.com/file/d/11omcu9aEJOyL-MwxhG5x6uwLZJ9wDYQO/view?usp=sharing
-    link_text: [abstract]
+    link_text: \[abstract\]
     image:
       src: /assets/img/work/q_project.png
       alt: q_project
