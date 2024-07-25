@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-    Welcome! My name is Chloe, and I'm a 5th-year PhD student in linguistics at Cornell. 
+    Welcome! My name is Chloe, and I'm a PhD candidate in the Department of Linguistics at Cornell. 
 </p>
 
 <p>
