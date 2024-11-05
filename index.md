@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-    My research interests lie in phonetics, morphophonology, and their interface. I am also strongly interested in advancing research methodologies and computational modeling of linguistic data. In my dissertation, I examine phonetic patterns of Korean stops in compound words to illuminate how phonemic contrasts are maintained or reshaped amid phonetic variation and to uncover the mechanisms linking speech production and perception. 
+    My research interests lie in phonetics, morphophonology, and their interface. I am also strongly interested in advancing research methodologies and computational modeling of linguistic data. In my dissertation, I examine phonetic patterns of Korean stops in compound words to illuminate how phonemic contrasts are maintained or reshaped amid phonetic variation, especially from individual speakers and words, and to uncover the mechanisms linking speech production and perception. 
 </p>
 
 <p>
