@@ -9,7 +9,7 @@ items:
     image:
       src: /assets/img/work/a_project.png
       alt: a_project
-    description: This is part of my dissertation project studying the phonetic realization of a morpho-phonological process in Korean called sai-sios, or compound tensification. It causes a plain obstruent in the initial position of the second noun to become tense in a noun + noun compound. Compound tensification is interesting since it's not entirely predictable when it occurs and what happens to the pronunciations when it does. I examined corpus data to answer questions of how compound tensification is manifested in actual speech and whether there is a categorical distinction between tense stops derived from compound tensification and underlying plain and tense stops, as described in the traditional literature. Currently, I'm working on publishing results from a production experiment and running a perception experiment.
+    description: This dissertation project investigates the phonetic realization of sai-sios, or compound tensification, a morpho-phonological process in Korean. Compound tensification transforms a plain obstruent in the initial position of the second noun within a noun + noun compound into a tense obstruent. This phenomenon is particularly interesting due to its unpredictable occurrence and the variability it introduces in pronunciation. Using corpus data, I explored how compound tensification manifests in natural speech and whether the tense stops resulting from it are categorically distinct from both underlying plain and tense stops, as posited in traditional analyses. Currently, I am preparing results from a production experiment for publication and conducting a perception experiment to probe these findings further.
 
 
   - title: The prosodic patterns in English production by L1 speakers and Korean L2 speakers of English 
@@ -18,7 +18,7 @@ items:
     image:
       src: /assets/img/work/q_project.png
       alt: q_project
-    description: I examined the prosodic patterns exhibited by Korean L2 speakers of English compared to English L1 speakers. Since Korean and English are prosodically distinct languages, I expected unique patterns to arise for Korean L2 speakers from L1 influence. Specifically, I hypothesized that the difference would stem from a Korean prosodic property in which phrase edges are highly prominent. This hypothesis is supported by the result that shows that L2 speakers are more consistently affected by boundary effects. It further indicates that specific prosodic characteristics of L1 shape the realization of L2 speech, which helps us understand why L2 speech sounds distinct from L1 systematically.
+    description: I examined the prosodic patterns of Korean L2 English speakers compared to English L1 speakers. Given the prosodic differences between Korean and English, I anticipated that unique patterns in L2 speech would emerge due to L1 influence. Specifically, I hypothesized that Korean L2 speakers would exhibit stronger boundary effects, reflecting the prominence of phrase edges in Korean prosody. This hypothesis was supported by findings showing that L2 speakers are more consistently influenced by boundary effects, suggesting that specific prosodic features of L1 shape L2 speech production. These insights contribute to our understanding of why L2 speech systematically differs from L1 speech.
 
 
 
