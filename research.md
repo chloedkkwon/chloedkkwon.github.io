@@ -29,7 +29,9 @@ items:
       src: /assets/img/work/q_project.png
       alt: q_project
     description: |
-      I examined the prosodic patterns of Korean L2 English speakers compared to English L1 speakers. Given the prosodic differences between Korean and English, I anticipated that unique patterns in L2 speech would emerge due to L1 influence. Specifically, I hypothesized that Korean L2 speakers would exhibit stronger boundary effects, reflecting the prominence of phrase edges in Korean prosody. This hypothesis was supported by findings showing that L2 speakers are more consistently influenced by boundary effects, suggesting that specific prosodic features of L1 shape L2 speech production. These insights contribute to our understanding of why L2 speech systematically differs from L1 speech.
+      <p>I examined the prosodic patterns of Korean L2 English speakers compared to English L1 speakers. Given the prosodic differences between Korean and English, I anticipated that unique patterns in L2 speech would emerge due to L1 influence. Specifically, I hypothesized that Korean L2 speakers would exhibit stronger boundary effects, reflecting the prominence of phrase edges in Korean prosody. This hypothesis was supported by findings showing that L2 speakers are more consistently influenced by boundary effects, suggesting that specific prosodic features of L1 shape L2 speech production. These insights contribute to our understanding of why L2 speech systematically differs from L1 speech.</p>
+    [Back to top](#compound-tensification-in-korean---bridging-phonology-phonetics-and-morphology)
+
 
 ---
 Here you can learn more about my projects.  
