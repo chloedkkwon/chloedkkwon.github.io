@@ -10,7 +10,7 @@ items:
     description: |
       This dissertation project investigates the phonetic realization of compound tensification (a.k.a. sai-sios), a morphophonological process in Korean. It refers to a process where a plain obstruent in the initial position of the second noun surfaces as a tense obstruent in a noun+noun compound. This phenomenon is particularly interesting due to its unpredictable occurrence and the variability it introduces in pronunciation. In my project, I focus on the phonetic realization of tense stops that emerge from compound tensification and their mapping to listeners' perceptions.  
       
-      **(a) Corpus study**<br> <a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link"><strong>[Proceeding]</strong></a>
+      **(a) Corpus study**<br> <a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link">[Proceeding]</a><br>
       Using corpus data, I explored how compound tensification manifests in natural speech and whether the tense stops resulting from it are categorically distinct from both underlying plain and tense stops, as assumed in traditional analyses. When characterized by stop duration, F0 onset, and H1-H2 on the following vowel, derived tense stops in compounds exhibited characteristics expected of underlying tense stops (i.e., longer duration, higher F0 onset, lower H1-H2), whereas underlying tense stops in compounds exhibited characteristics expected of underlying plain stops (i.e., shorter duration, lower F0 onset, lower H1-H2). The results call into question whether compound tensification results in categorically distinctive tense consonants.  
      
       **(b) Production study**<br>
