@@ -8,6 +8,7 @@ items:
       src: /assets/img/work/a_project.png
       alt: a_project
     description: |
+
       This dissertation project investigates the phonetic realization of compound tensification (a.k.a. sai-sios), a morphophonological process in Korean. It refers to a process where a plain obstruent in the initial position of the second noun surfaces as a tense obstruent in a noun+noun compound. This phenomenon is particularly interesting due to its unpredictable occurrence and the variability it introduces in pronunciation. In my project, I focus on the phonetic realization of tense stops that emerge from compound tensification and their mapping to listeners' perceptions.  
       
       ### (a) Corpus study <a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link">[Proceeding]</a>
@@ -31,7 +32,9 @@ items:
       I examined the prosodic patterns of Korean L2 English speakers compared to English L1 speakers. Given the prosodic differences between Korean and English, I anticipated that unique patterns in L2 speech would emerge due to L1 influence. Specifically, I hypothesized that Korean L2 speakers would exhibit stronger boundary effects, reflecting the prominence of phrase edges in Korean prosody. This hypothesis was supported by findings showing that L2 speakers are more consistently influenced by boundary effects, suggesting that specific prosodic features of L1 shape L2 speech production. These insights contribute to our understanding of why L2 speech systematically differs from L1 speech.
 
 ---
-
 Here you can learn more about my projects.  
-<br />  
+### Jump to:
+- [Corpus study](#a-corpus-study)
+- [Production study](#b-production-study)
+- [Perception study](#c-perception-study)
 <br />
