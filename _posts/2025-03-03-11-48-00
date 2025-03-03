@@ -4,9 +4,6 @@ title:  "Running VoiceSauce"
 date:   2025-03-03 11:48:00
 blurb: "VoiceSauce."
 ---
-<br />
-<br />
-
 [VoiceSauce](https://www.phonetics.ucla.edu/voicesauce/) is an open-source software tool for automated voice analysis (Shue et al., 2011). It offers a wide range of acoustic measurements, making it a valuable tool for studying human speech.  
 
 In my work, I needed to process a large number of audio files, which made running VoiceSauce through the MATLAB GUI on my MacBook inefficient. So I developed a wrapper function that allows VoiceSauce to run both on my Mac environment and a remote Linux server. 
