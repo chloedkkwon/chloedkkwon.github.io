@@ -17,7 +17,7 @@ header:
       #slug: 20240718_CV_chloe.pdf
     - name: Research
     - name: Teaching
-#    - name: Blog
+    - name: Blog
 
 footer:
   show_powered_by: true
@@ -36,8 +36,8 @@ footer:
 #      link: http://facebook.com/YourFacebookUsername
 #    - name: LinkedIn
 #      link: http://linkedin.com/in/YourLinkedInUsername
-#    - name: GitHub
-#      link: http://github.com/YourGitHubUsername
+    - name: GitHub
+      link: http://github.com/chloedkkwon
 #    - name: Dribbble
 #      link: https://dribbble.com/YourDribbbleUsername
 #    - name: RSS
