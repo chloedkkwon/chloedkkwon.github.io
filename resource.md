@@ -1,7 +1,7 @@
 ---
-layout: resource
-title: Resource
-slug: /resource
+layout: blog
+title: Resources
+slug: /resources
 ---
 
 Resources for phonetic data analysis
