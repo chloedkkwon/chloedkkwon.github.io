@@ -19,6 +19,9 @@ If you're dealing with similar challenges, you can find my wrapper code here:
 
 Follow the instructions in the repository, and you should be able to adapt it for your own setup. Let me know if you have any questions or need help customizing it!  
 
+### References
+- Shue, Y.-L., Keating, P. A., Vicenik, C., & Yu, K. M. (2011). VoiceSauce: A program for voice analysis. *The Journal of the Acoustical Society of America, 130*(4), 2429. [DOI: 10.1121/1.3640749](https://doi.org/10.1121/1.3640749)
+
 <br />
 
 
