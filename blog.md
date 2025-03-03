@@ -1,7 +1,7 @@
 ---
-layout: blog
-title: Blog
-slug: /blog
+layout: resource
+title: Resource
+slug: /resource
 ---
 
 This is an example of a "Blog" page, displaying a list of posts.
