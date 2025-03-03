@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Post example"
-date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
+title:  "Running VoiceSauce raw/remotely"
+date:   2025-03-03 11:48:00
+blurb: "VoiceSauce."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
@@ -10,44 +10,17 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-This is an example of blog post.
-Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
+[VoiceSauce](https://www.phonetics.ucla.edu/voicesauce/) is an open-source software tool for automated voice analysis (Shue et al., 2011). It offers a wide range of acoustic measurements, making it a valuable tool for studying human speech.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
+In my work, I needed to process a large number of audio files, which made running VoiceSauce through the MATLAB GUI on my MacBook inefficient. So I developed a wrapper function that allows VoiceSauce to run both on my Mac environment and a remote Linux server. 
 
-<br />
+If you're dealing with similar challenges, you can find my wrapper code here:  
+➡ **[Chloe's GitHub repo for VoiceSauce](https://github.com/chloedkkwon/voicesauce_matlab?tab=readme-ov-file)**  
 
-
-#### Table of Contents
-1. [Part 1](#part-1)
-2. [Part 2](#part-2)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
-3. [Footnotes](#footnotes)
-
-#### PART 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<br />
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<br />
-<br />
-
-#### PART 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Follow the instructions in the repository, and you should be able to adapt it for your own setup. Let me know if you have any questions or need help customizing it!  
 
 <br />
 
-##### PART 2 SUB PART 1
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<br />
-
-##### PART 2 SUB PART 2
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<br />
 
 
 ##### FOOTNOTES
