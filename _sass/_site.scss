@@ -2,6 +2,8 @@
   float: right;
   border: #ccc 1px solid;
   margin-left: 20px;
+  width: 200px; 
+  height: auto; 
 
   @include media-query($on-mobile) {
     float: none;
