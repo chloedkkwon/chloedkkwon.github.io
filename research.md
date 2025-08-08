@@ -12,7 +12,7 @@ items:
       <p> This dissertation project investigates the phonetic realization of compound tensification (a.k.a. sai-sios), a morphophonological process in Korean. It refers to a process where a plain obstruent in the initial position of the second noun surfaces as a tense obstruent in a noun+noun compound. This phenomenon is particularly interesting due to its unpredictable occurrence and the variability it introduces in pronunciation. In my project, I focus on the phonetic realization of tense stops that emerge from compound tensification and their mapping to listeners' perceptions. </p>
       
       <details>
-        <summary>Click to expand </summary>
+        <summary><strong>Click to expand</strong></summary>
         <h4 id="a-corpus-study">
           (a) Corpus study
           <a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link">[Proceeding]</a>
