@@ -13,23 +13,23 @@ items:
       
       <details>
         <summary><strong>Click to expand</strong></summary>
-        <h4 id="a-corpus-study">
+        <h3 id="a-corpus-study">
           (a) Corpus study
           <a href="https://drive.google.com/file/d/15I8WHJa4ytbs3MLPyJ9lDT_-CvffA00A/view?usp=drive_link">[Proceeding]</a>
-        </h4>
+        </h3>
         <p>Using corpus data, I explored how compound tensification manifests in natural speech and whether the tense stops resulting from it are categorically distinct from both underlying plain and tense stops, as assumed in traditional analyses. When characterized by stop duration, F0 onset, and H1-H2 on the following vowel, derived tense stops in compounds exhibited characteristics expected of underlying tense stops (i.e., longer duration, higher F0 onset, lower H1-H2), whereas underlying tense stops in compounds exhibited characteristics expected of underlying plain stops (i.e., shorter duration, lower F0 onset, lower H1-H2). The results call into question whether compound tensification results in categorically distinctive tense consonants.</p>
      
-        <h4 id="b-production-study">
+        <h3 id="b-production-study">
           (b) Production study
           <a href="https://drive.google.com/file/d/1puMukcvU7CXmK85COg_XMAMLtCreNLdP/view?usp=sharing"><strong>[Talk slides]</strong></a>
           <a href="https://drive.google.com/file/d/1OmrNidCh7-aJUgtwByunbqu5TAos_58-/view?usp=sharing"><strong>[Abstract]</strong></a>
-        </h4>
+        </h3>
         <p>One key factor influencing the occurrence of tensification is the preceding phonological context. Specifically, tensification is significantly more likely when the target medial stop follows a sonorant than when it follows a vowel. To better understand the sources of variation observed in the corpus data, it is crucial to account for both preceding phonological context and morphological context (i.e., compound vs. simplex noun). To this end, I conducted a controlled production experiment with Korean L1 speakers, carefully balancing stimuli across these factors, along with the type of medial stop.</p>
         <p>My findings reveal that phonetic variation arises from both contextual effects and speaker- and word-specific properties. In terms of phonetic realization, derived tense stops (i.e., plain stops in compounds) exhibited significantly lengthened closure durations, particularly in post-sonorant contexts, likely due to compound tensification. However, F0 onset and its trajectory on the following vowel suggest broader morphological or prosodic influences beyond tensification alone. Meanwhile, release duration, burst amplitude, and spectral tilt (H1*-H2*) remained stable across conditions, indicating that certain phonetic properties are less sensitive to these contextual effects.</p>
 
-        <h4 id="c-perception-study">
+        <h3 id="c-perception-study">
           (c) Perception study
-        </h4>
+        </h3>
         <p>To investigate how Korean L1 listeners identify word-medial stops in the presence of phonetic variation, I conducted a perception experiment using a 3AFC task. Listeners were asked to categorize plain, tense, and aspirated stops based on medial stops extracted from the production data along with their immediately neighboring sounds. A subset of listeners was presented with stimuli from post-vowel contexts, while another subset heard stimuli from post-sonorant contexts.</p>
         <p>The results show that phonological context strongly influenced perception: plain stops were more likely to be identified as tense in post-sonorant contexts. Additionally, lexical biases persisted despite minimal phonetic information, suggesting that word-specific knowledge affects perception even in the absence of whole-word stimuli. Acoustic factors such as closure duration, release duration, and spectral tilt shaped stop identification, while F0, typically an important cue in distinguishing word-initial Korean stops, had no significant effect in the word-medial position. These findings underscore how listeners actively integrate multiple sources of information—acoustic, phonological, and lexical—when navigating phonetic variation in speech.</p>
 
