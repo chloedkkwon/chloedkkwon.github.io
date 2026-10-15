@@ -6,17 +6,17 @@ profile_picture:
 ---
 
 <p>
-    Welcome! My name is Chloe, and I'm a postdoctoral researcher at McMaster University in Canada.
+    Welcome! My Korean name is Dokyung [tokjʌŋ], but I go by Chloe. I'm currently a postdoctoral researcher in the Department of Computing and Software in McMaster University. 
 </p>
 
 <p>
-    My research interests lie in phonetics, morphophonology, and their interface. I am also interested in advancing research methodologies and computational modeling of linguistic data. In my dissertation, I examine phonetic patterns of Korean stops in compound words to better understand how phonological contrasts are maintained or reshaped amid phonetic variation, especially from individual speakers and words, and to uncover the mechanisms linking speech production and perception. 
+    My research interests lie in phonetics, morphophonology, and computational linguistics, as well as advancing research methodologies. In my dissertation, I examined phonetic patterns of Korean word-medial stops in noun-noun compounds because I was curious about how phonological contrasts are maintained or reshaped amid phonetic variation within individual speakers. I am passionate about uncovering patterns in complex linguistic data and understanding the cognitive mechanisms that underlie the acquisition of such patterns. 
 </p>
 
 <p> For a more non-linguist-friendly profile, please check out my github <a href="https://github.com/chloedkkwon/">here</a>! </p>
 
 <p>
-  Outside of work, I love to watch horror movies, visit breweries and wineries, and cuddle with my precious cat, Nuri.
+  Outside of work, I love to watch horror movies, visit breweries and wineries, and cuddle with my precious orange cat, Nuri.
  </p>
 
 <p>
