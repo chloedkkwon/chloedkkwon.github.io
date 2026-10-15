@@ -10,6 +10,7 @@ items:
     description: I designed and taught a writing course titled "Biological Foundations of Language" for freshman students new to linguistics. It covered topics such as animal communication and the nature vs. nurture debate.
 
   - title: Fall 2025 TA for LING 1101 Introduction to Linguistics
+    src: /assets/img/work/intro_to_ling.png
     description: I led two discussion sections, helping students understand foundational concepts in linguistics by reviewing the lecture slides and practice problems.
 
   - title: Fall 2021, Fall 2024 TA for LING 2221 Language and Society
