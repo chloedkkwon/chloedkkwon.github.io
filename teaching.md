@@ -11,7 +11,8 @@ items:
 
   - title: Fall 2025 TA for LING 1101 Introduction to Linguistics
     image:
-    src: /assets/img/work/intro_to_ling.png
+      src: /assets/img/work/intro_to_ling.png
+      alt: intro_to_ling
     description: I led two discussion sections, helping students understand foundational concepts in linguistics by reviewing the lecture slides and practice problems.
 
   - title: Fall 2021, Fall 2024 TA for LING 2221 Language and Society
