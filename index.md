@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-    My research interests lie in phonetics, morphophonology, and computational linguistics, as well as advancing research methodologies. In my dissertation, I examined phonetic patterns of Korean word-medial stops in noun-noun compounds because I was curious about how phonological contrasts are maintained or reshaped amid phonetic variation within individual speakers. I am passionate about uncovering patterns in complex linguistic data and understanding the cognitive mechanisms that underlie the acquisition of such patterns. 
+    My research interests lie in phonetics, morphophonology, and computational linguistics. In my dissertation, I examined phonetic patterns of Korean word-medial stops in noun-noun compounds because I was curious about how phonological contrasts are maintained or reshaped amid phonetic variation within individual speakers. I am passionate about uncovering patterns in complex linguistic data and understanding the cognitive mechanisms that underlie the acquisition of such patterns. 
 </p>
 
 <p>
