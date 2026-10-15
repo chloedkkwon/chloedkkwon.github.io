@@ -3,7 +3,11 @@ layout: work
 title: Teaching
 slug: /teaching
 items:
-  - title: Spring 2024 Instructor for LING 1100 First-Year Writing Seminar
+
+  - title: Fall 2025 TA for LING 1101 Introduction to Linguistics
+    description: I led two discussion sections helping students understand foundational concepts in linguistics.
+    
+  - title: Spring 2024 & 2026 Instructor for LING 1100 First-Year Writing Seminar
     image:
       src: /assets/img/work/brain.png
       alt: brain
