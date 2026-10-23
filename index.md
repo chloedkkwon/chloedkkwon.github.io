@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-    Welcome! My Korean name is Dokyung [tokjʌŋ], but I go by Chloe. I'm currently a postdoctoral researcher in the Department of Computing and Software in McMaster University. 
+    Welcome! My Korean name is Dokyung [tokjʌŋ], but I go by Chloe. I completed my PhD in linguistics from Cornell University and am currently a postdoctoral researcher in the Department of Computing and Software in McMaster University. 
 </p>
 
 <p>
